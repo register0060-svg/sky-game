@@ -1,0 +1,6 @@
+{
+  "name": "Sky Game",
+  "description": "A fast-paced number finding space puzzle game",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
